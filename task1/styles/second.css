@@ -1,0 +1,21 @@
+.gift{
+    display: block;
+    margin: auto;
+}
+h2{
+    text-align: center;
+}
+h2:hover{
+    text-decoration: underline;
+}
+.mail:hover{
+    text-decoration: underline;
+}
+.code{
+    display: flex;
+    justify-content: center;
+   margin-top: -20px;
+}
+.code:hover{
+    text-decoration: underline;
+}
